@@ -1,0 +1,295 @@
+#hearder {
+	margin:auto;
+	width: 1000px;
+	height: 100px;
+
+}
+.trai {
+	float: left;
+	font-family: 'Podkova',serif;
+  	font-weight: bold;
+}
+.phai {
+	float: right;
+	border-radius: 50%;
+	border: 5px solid #E0FFFF;
+	margin-top: 50px;
+}
+.cham {
+	font-size: 80px;
+	color: #FF8C00;
+}
+.fa-align-center {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	 line-height: 43px;
+}
+#banner {
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	margin-top: 60px;
+	font-size: 13px;
+	font-family: 'Lora',serif;
+}
+#banner img {
+	width: 1000px;
+	height: 600px;
+	border-radius: 10px;
+}
+#banner a {
+	text-decoration: none;
+	color: #666;
+	border-bottom: 1px dotted;
+}
+#vanban {
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	margin-top: 30px;
+	font-size: 20px;
+	line-height: 30px;
+	font-family: time new roman;
+}
+.vanban1 {
+	width: 1000px;
+	height: auto;	
+}
+.vanban2 {
+	width: 1000px;
+	height: 100px;
+	border-top: 1px dotted;
+	border-bottom: 1px dotted;
+	padding-top: 20px;
+	margin-top: 50px;
+}
+.vanban2-center p {
+	text-align: center
+}
+.vanban2-center {
+	width: 650px;
+	height: auto;
+	margin: auto;
+}
+.vanban2-left {
+	width: 150px;
+	height: auto;
+	float: left;
+}
+.vanban2-left i {
+	color: #E6E6FA;
+	font-size: 40px;
+}
+.vanban3 {
+	width: 1000px;
+	height: 200px;
+	margin-top: 40px;
+}
+.vanban4 {
+	margin-top: 60px;
+	width: 1000px;
+	height: 200px;
+}
+.vanban5 {
+	width: 1000px;
+	height: 420px;
+	margin-top: 50px;
+}
+.vanban5-left {
+	width: 57%;
+	height: auto;
+	float: left;
+}
+.vanban5-right {
+	width: 40%;
+	height: auto;	
+	float: right;
+	margin-top: 40px;
+}
+.vanban6 {
+	width: 1000px;
+	height: 150px;
+	margin-top: 40px;
+}
+.share i {
+	border: 1px solid #0000CD;
+	border-radius: 50%;
+	margin-left: 3px;
+	color: black;
+}
+.no1 {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 43px;
+}
+.no2 {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 43px;
+}
+.no3 {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 43px;
+}
+.no4 {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 43px;
+}
+.no5 {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 43px;
+}
+.no1:hover {
+	color: #F8F8FF;
+	background-color: #0000CD;
+}
+.no2:hover {
+	color: #F8F8FF;
+	background-color:#87CEFA;
+}
+.no3:hover {
+	color: #F8F8FF;
+	background-color:#FF0000;
+}
+.no4:hover {
+	color: #F8F8FF;
+	background-color: #1E90FF;
+}
+.no5:hover {
+	color: #F8F8FF;
+	background-color:#FF0000;
+}
+#share {
+	width: 1000px;
+	height: 50px;
+}
+#comment {
+	width: 1000px;
+	height: 400px;
+	font-size: 16px;
+	margin-top: 60px;
+	margin: auto;
+}
+.comment-top {
+	width: 1000px;
+	height: 200px;
+	border-top: 1px dotted;
+	border-bottom: 1px	dotted;
+	padding-top: 40px;
+}
+.top-left {
+	float: left;
+	width: 10%;
+	margin-top:10px;
+}
+.top-right {
+	float: left;
+	width: 90%
+
+}
+.comment-bottom {
+	width: 1000px;
+	height: 200px;
+	border-top: 1px dotted;
+	border-bottom: 1px	dotted;
+	padding-top: 50px;
+}
+.bottom-left {
+	float: left;
+	width: 10%;
+	margin-top: 10px;
+}
+.bottom-right {
+	float: left;
+	width: 90%;
+}
+.top-left img {
+	border-radius: 50%;
+}
+.bottom-left img {
+	border-radius: 50%;
+}
+#table {
+	width: 1000px;
+	height: 400px;
+	padding-top: 60px;
+	border-bottom: 1px dotted black;
+	border-top: 1px dotted black;
+	margin: auto;
+}
+.row {
+	width: 1000px;
+	height: 500px;
+}
+.row img {
+	border-radius: 10px;
+}
+#table a {
+	text-decoration: none;
+	color: black;
+}
+#form {
+	width: 1000px;
+	height: 400px;
+	border-top: 1px dotted black;
+	padding-top: 40px;
+	margin: auto;
+}
+#form a {
+	text-decoration: none;
+}
+.form1 {
+	font-size: 14px;
+}
+#form button {
+	border-radius:20px;
+}
+#form textarea {
+	border-radius: 10px;
+}
+#footer {
+	height: 300px;
+	margin: auto;
+	border-top: 1px solid #ADD8E6;
+}
+#share {
+	width: 1000px;
+	height: 100px;
+	margin-top: 50px;
+	margin: auto;
+}
+.cotainer-footer {
+	width: 1000px;
+	height: auto;
+	margin: auto;
+}
+.row {
+	margin: auto;
+	padding-top: 50px;
+}
+.span-2 {
+	float: right;
+}
+.cols2-2 {
+	border-top: 1px solid #ADD8E6;
+	border-bottom: 1px solid #ADD8E6;
+}
+.cols3 img {
+	padding-top: 5px;
+	border-radius: 0px;
+}
+#end {
+	width: 1000px;
+	margin: auto;
+	border-top: 1px solid #ADD8E6;
+
+}
