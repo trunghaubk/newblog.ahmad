@@ -291,5 +291,14 @@
 	width: 1000px;
 	margin: auto;
 	border-top: 1px solid #ADD8E6;
+}
+.navbar2 {
+	width: 1208px;
+	float: right;
+	background-color: #FFF;
+	border: 0px
 
+}
+.navbar1 {
+	background-color: #FFF;
 }
