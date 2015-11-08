@@ -1,0 +1,164 @@
+#calcu {
+	width: 200px;
+	height: 250px;
+	background-color: #6699FF;
+	text-align: center;
+	padding-top: 10px;
+	margin: auto;
+	border-radius: 20px;
+
+}
+#add {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#sub {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#mul {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#div {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#calcu1 {
+	width: 200px;
+	height: 380px;
+	background-color: #6699FF;
+	text-align: center;
+	padding-top: 10px;
+	margin: auto;
+	border-radius: 20px;
+}
+#so1 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so2 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so3 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so4 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so5 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so6 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so7 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so8 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so9 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#so0 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#add1 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	margin: 4px;
+	border-style: none;
+}
+#sub2 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+	margin: 4px;
+}
+#mul3 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+	margin: 4px;
+}
+#div4 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+}
+#equa4 {
+	width: 40px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: none;
+	margin: 4px;
+}
+#clear1 {
+	width: 90px;
+	height: 40px;
+	border-radius: 15px;
+	font-size: 30px;
+	border-style: 5px;
+	margin: 4px;
+}
