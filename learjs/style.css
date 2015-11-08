@@ -154,11 +154,12 @@
 	border-style: none;
 	margin: 4px;
 }
-#clear1 {
+#refresh {
 	width: 90px;
 	height: 40px;
 	border-radius: 15px;
 	font-size: 30px;
 	border-style: 5px;
 	margin: 4px;
+
 }
