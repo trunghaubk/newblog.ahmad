@@ -60,6 +60,6 @@ function equa() {
 	var ketqua = eval(document.getElementById('Result').value);
 	document.getElementById('Result').value = ketqua;
 }
-function clear() {
-	document.getElementById('Result').value=document.getElementById('so1').value += "1";
-}  
+funfunction refreshPage() {
+    location.reload(true);
+}
